@@ -1,0 +1,16 @@
+{
+  "appId": "com.github.iffy.electronupdaterexample",
+  "mac": {
+    "category": "your.app.category.type",
+    "target": [
+      "dmg",
+      "zip"
+    ]
+  },
+  "publish": {
+    "provider": "github",
+    "releaseType": "release",
+    "owner": "Littly",
+    "repo": "electron-update-example"
+  }
+}
